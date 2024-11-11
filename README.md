@@ -14,12 +14,6 @@ This repository contains code and resources for building a next word prediction 
 - Python 3.7+
 - `tensorflow` and `numpy` libraries
 
-### Code
-For detailed code go here [https://www.kaggle.com/code/harshgupta2003/next-word-predictor-using-lstm-rnn-gru]
-
-## Contributing
-Contributions are welcome! If you'd like to contribute to the project, please fork the repository and submit a pull request. You can also report issues or suggest features via the GitHub issue tracker.
-
 ## Acknowledgments
 Special thanks to the developers of TensorFlow for the LSTM framework and to the contributors who helped make this project possible.
 
